@@ -1,2 +1,2 @@
 # celebrity_hobbies_scrap
-The code here scraps hobbies of different bollywood celebrities.
+Web Scrapper built using beautifulSoup to scrap the hobbies data for different bollywood celebrities.
